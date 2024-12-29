@@ -79,7 +79,6 @@ class StudentView extends StatelessWidget {
                                     IconButton(
                                       icon: Icon(
                                         Icons.edit,
-                                        color: Colors.blue,
                                       ),
                                       onPressed: () {
                                         firstNameController.text =
